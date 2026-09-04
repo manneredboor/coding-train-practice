@@ -65,6 +65,10 @@ export const PageHome = () => (
       ))}
     <br />
     <div style={{ textAlign: 'right', opacity: 0.5 }}>
+      <a target="_blank" href="https://bobunderforest.me/" rel="noreferrer">
+        my portfolio
+      </a>
+      &nbsp; &nbsp; &nbsp;
       <a
         target="_blank"
         href="https://twitter.com/dmitrypodlesny"
